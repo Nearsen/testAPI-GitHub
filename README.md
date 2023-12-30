@@ -7,7 +7,7 @@ https://docs.github.com/en/rest/issues/issues?apiVersion=2022-11-28#about-issues
 https://github.com/Nearsen/testAPI-GitHub
 
 API ключ
-(в прикрепленном readme файле)
+- (в readme файле, прикрепленном к документу с ответами к финальному тестовому заданию)
 
 Предусловия
 Создать аккаунт в GitHub;
