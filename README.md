@@ -28,7 +28,7 @@ API запрос
 -------------------
 1. Создать issue 1 
 - POST запрос {{apiGitHub}}/{{owner}}/{{repo}}/issues
-тело запроса
+- тело запроса
 {
   "title": "issue1",
   "body": "Something went wrong",
@@ -40,7 +40,7 @@ API запрос
 --------------------
 3. Изменить issue 1  
 - PATH запрос {{apiGitHub}}/{{owner}}/{{repo}}/issues/1  (где 1 - номер issue. номер issue взять из ответа GET запроса - "number": 1,)
-тело запроса
+- тело запроса
 {
   "title": "issue2",
   "body": "Something went wrong",
